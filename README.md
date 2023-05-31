@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋
+Hi there. I am Max, a backend developer working from shenzen, China.
+
+I've focused on building a payment platform recently, like stripe, you are welcome to use it. 
+
+https://www.justap.cn
+
 
 <!--
 **cmzz/cmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks for visiting! ❤️
