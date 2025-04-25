@@ -3,7 +3,6 @@ Hi there. I am Max, a backend developer working from shenzen, China.
 
 I've focused on building a payment platform recently, like stripe, you are welcome to use it. 
 
-https://www.justap.cn
 
 
 <!--
